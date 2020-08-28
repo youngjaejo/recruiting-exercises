@@ -1,10 +1,6 @@
 import java.util.HashMap;
 import java.util.Map;
-
-import org.junit.FixMethodOrder;
 import org.junit.Test;
-import org.junit.jupiter.api.Order;
-import org.junit.runners.MethodSorters;
 
 public class TestInventoryAllocator {
 
