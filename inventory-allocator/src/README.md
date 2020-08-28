@@ -2,7 +2,7 @@
 
 ## How to run Test
 
-My solution used java and junit test and I included junit jar file.</br>
+My solution is used java and junit test and I included junit jar file.</br>
 
 Those are commands to run test and commands should be run in src folder directory, otherwise commands path should be changed.</br>
 
